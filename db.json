@@ -1,21 +1,12 @@
-{
-
-  "posts": [
-
-    {
-
-      "id": 1,
-
-      "title": "hello"
-
-    }
-
-  ],
-
-  "profile": {
-
-    "name": "typicode"
-
+[
+  {
+    "name": "Cream Chargers",
+    "icon_url": "https://ozsmoke.com.au/images/product/VCCWHIP-cream-chargers-quickwhip-12s-flat.jpg",
+    "price": 15
+  },
+  {
+    "name": "Cream Chargers 10 pack",
+    "icon_url": "https://ozsmoke.com.au/images/product/VCCWHIP-cream-chargers-quickwhip-12s-flat.jpg",
+    "price": 15
   }
-
-}
+]
