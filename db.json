@@ -2,26 +2,25 @@
   {
     "name": "QuickWhip Cream Chargers - 10 x 8g",
     "icon_url": "https://www.quickwhip.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/a/pack10_1.png",
-    "price": 12
+    "price": 12,
+    "id": "102ac205-f590-41eb-abcb-adb5526eecec"
   },
   {
     "name": "SupremeWhip Professional Cream Chargers - 10 x 8.2g",
     "icon_url": "https://www.quickwhip.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/u/supremewhip_10pack_chargersside_-new_4.png",
-    "price": 14
+    "price": 14,
+    "id": "26b79dfc-df10-4376-9018-d3067ef632c0"
   },
   {
     "name": "FreshWhip Strawberry Infusion Chargers - 10 x 8.2g",
     "icon_url": "https://www.quickwhip.com.au/media/catalog/product/cache/1/thumbnail/600x600/9df78eab33525d08d6e5fb8d27136e95/f/r/freshwhip_strawberry_10pk_front.png",
-    "price": 21
+    "price": 21,
+    "id": "59d01ce4-8291-4ba6-bffd-aa8e339d0810"
   },
   {
     "name": "FreshWhip Mint Infusion Chargers - 10 x  8.2g",
     "icon_url": "https://www.quickwhip.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/f/w/fw10_1200x1280_2_1.jpg",
-    "price": 21
-  },
-  {
-    "name": "BIG BLACK MASSIVE DICK",
-    "icon_url": "https://i.ebayimg.com/images/i/151723538768-0-1/s-l1000.jpg",
-    "price": 149.99
+    "price": 21,
+    "id": "f35287c8-8db6-4e66-bf57-8d55790d5cb5"
   }
 ]
